@@ -9,7 +9,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/wiem-ben-el-haj-salah-bouhdid-a3595b343
+
+)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wiem.benelhajsalahbouhdid@ensi-uma.tn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
 ![Profile Views](https://komarev.com/ghpvc/?username=wiem-benelhajsalahbouhdid&label=Profile%20Views&color=7c3aed&style=for-the-badge)
