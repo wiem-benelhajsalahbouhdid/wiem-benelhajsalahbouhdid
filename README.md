@@ -1,17 +1,16 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=220&section=header&text=Wiem%20Ben%20El%20Haj%20Salah%20Bouhdid&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Computer%20Vision%20%7C%20Medical%20AI%20%7C%20Aerospace&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=220&section=header&text=Wiem%20Ben%20El%20Haj%20Salah%20Bouhdid&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%26%20Computer%20Vision%20Engineer%20%7C%20ENSI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+Engineering+Student+%40+ENSI;Computer+Vision+%26+Medical+AI;Federated+Learning+%7C+GNN+%7C+RAG+%7C+MLOps;Building+intelligent+systems%2C+dreaming+of+space+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Research+Intern+%40+LARODEC+Laboratory;Federated+Learning+%7C+GNNs+%7C+Knowledge+Graphs;Computer+Vision+%7C+3D+Gaussian+Splatting+%7C+NLP;Turning+research+ideas+into+real-world+systems+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/wiem-ben-el-haj-salah-bouhdid-a3595b343)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiem-ben-el-haj-salah-bouhdid-a3595b343/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wiem.benelhajsalahbouhdid@ensi-uma.tn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
 ![Profile Views](https://komarev.com/ghpvc/?username=wiem-benelhajsalahbouhdid&label=Profile%20Views&color=7c3aed&style=for-the-badge)
 
 </div>
@@ -20,116 +19,154 @@
 
 ## 👩‍💻 About Me
 
-I'm an engineering student at **ENSI** passionate about **Artificial Intelligence, Computer Vision and Data Science**, with a strong focus on **medical AI** and intelligent systems that solve real-world problems.
-I enjoy turning research ideas into working, deployable solutions, and I'm equally fascinated by **aerospace**: I love building smart systems while dreaming about space. 🌌
+Engineering student at **ENSI – National School of Computer Science** (Data Science & Computer Vision track), working at the intersection of **Medical AI, Federated Learning, Graph Neural Networks and Computer Vision**.
+I'm currently a **research intern at LARODEC Laboratory**, co-authoring **two manuscripts submitted to Neurocomputing and Information Fusion**, and I love turning research ideas into working, deployable systems. 🌌
 
 | | |
 |---|---|
-| 🔭 **Currently working on** | AI, Computer Vision & Data Science projects (medical AI, intelligent systems) |
-| 🌱 **Currently learning** | Federated Learning, Graph Neural Networks, RAG / Agentic AI, MLOps |
-| 👯 **Open to collaborate on** | AI/ML, Computer Vision, Federated Learning & open-source projects |
-| 🤝 **Looking for help with** | Advanced AI research, MLOps / Cloud deployment |
-| 💬 **Ask me about** | AI, Machine Learning, Computer Vision, Python, Data Science |
-| 🎯 **Seeking** | Internship / PFE opportunities in AI, Computer Vision & Data Science |
+| 🔭 **Currently working on** | FedKG-Brain (federated brain connectivity prediction) and 3D Gaussian Splatting for road scene reconstruction |
+| 🌱 **Currently learning** | Neural ODEs, RAG / Agentic AI, MLOps & cloud deployment |
+| 👯 **Open to collaborate on** | Medical AI, Federated Learning, Computer Vision & open-source projects |
+| 💬 **Ask me about** | GNNs, Knowledge Graphs, Computer Vision, NLP, Python |
+| 🌍 **Languages** | Arabic (Native) · French (Professional) · English (Fluent) · Italian (Basic) |
 
 ---
 
-## 🛠️ Tech Stack
-
-**🧠 AI / Machine Learning**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**📊 Data Science**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-
-**🌐 Web & Backend**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**💻 Languages & Systems**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-**🗄️ Databases, Cloud & DevOps**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🚀 Featured Projects
+## 🧪 Research & Work Experience
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🛰️ AeroVerse <sub>(fork / contribution)</sub></h3>
-      <p>VR aerospace education platform combining <b>Unity 3D, AI tutoring and Computer Vision</b> (ENSI 2025/2026).</p>
-      <p><img src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square"/></p>
-      <a href="https://github.com/wiem-benelhajsalahbouhdid/AeroVerse">🔗 View repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌌 AstraNova</h3>
-      <p>REPLACE WITH 1-2 LINES: what it does, the problem it solves, and the key result.</p>
-      <p><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></p>
-      <a href="https://github.com/wiem-benelhajsalahbouhdid/astranova">🔗 View repository</a>
+    <td width="130" align="center"><b>2026 – Present</b></td>
+    <td>
+      <b>🧠 Research Intern: FedKG-Brain</b> · <i>LARODEC Laboratory</i><br/>
+      GNN framework predicting brain connectivity from resting-state fMRI, combining knowledge-graph-guided representation learning (<b>PrimeKG</b>), <b>Neural ODE</b> trajectory modeling and privacy-preserving <b>federated knowledge distillation</b> across multi-site clinical data. Pipeline built and validated on the <b>ABIDE dataset</b> (871 subjects, ASD vs. control).<br/>
+      <img src="https://img.shields.io/badge/GNN-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/Federated%20Learning-1E3A8A?style=flat-square"/> <img src="https://img.shields.io/badge/Knowledge%20Graphs-0F766E?style=flat-square"/> <img src="https://img.shields.io/badge/Neural%20ODE-B45309?style=flat-square"/> <img src="https://img.shields.io/badge/fMRI-9D174D?style=flat-square"/>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ Insure Project</h3>
-      <p>REPLACE WITH 1-2 LINES: what it does, the problem it solves, and the key result.</p>
-      <p><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></p>
-      <a href="https://github.com/wiem-benelhajsalahbouhdid/insure_project">🔗 View repository</a>
+    <td align="center"><b>Jun – Aug 2026</b></td>
+    <td>
+      <b>🛠️ Engineering Intern: Self-Healing Test Automation</b> · <i>STREAMWIDE</i><br/>
+      Cross-language (<b>Java / Python</b>) framework that automatically detects, diagnoses and repairs broken UI locators in a mobile <b>Appium</b> test suite using structural + semantic (LLM / embedding-based) scoring.<br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white"/> <img src="https://img.shields.io/badge/LLM%20%2F%20Embeddings-7C3AED?style=flat-square"/>
     </td>
-    <td width="50%" valign="top">
-      <h3>✨ Astro</h3>
-      <p>REPLACE WITH 1-2 LINES: what it does, the problem it solves, and the key result.</p>
-      <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></p>
-      <a href="https://github.com/wiem-benelhajsalahbouhdid/astro">🔗 View repository</a>
+  </tr>
+  <tr>
+    <td align="center"><b>Jun – Aug 2025</b></td>
+    <td>
+      <b>🔐 Research Intern: Data Anonymization Web Platform</b> · <i>RIADI Laboratory, ENSI</i><br/>
+      Architected a full-stack app implementing <b>7 anonymization algorithms</b> (k-anonymity, l-diversity, masking, generalization, suppression, perturbation, aggregation) with role-based access control and <b>XACML</b> policy export.<br/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🎯 What I'm Aiming For
+## 🚀 Academic Projects
 
-```python
-class Wiem:
-    role      = "AI / Computer Vision Engineer (in the making)"
-    focus     = ["Medical AI", "Computer Vision", "Federated Learning", "GNN", "RAG & Agentic AI"]
-    mindset   = "Research ideas -> real-world, deployed solutions"
-    education = "ENSI - National School of Computer Science"
-    fun_fact  = "Builds intelligent systems while dreaming about space 🚀"
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 3D Gaussian Splatting: Road Scenes</h3>
+      <sub>ENSI · Sept. 2026 – Present</sub>
+      <p>Reconstructing road scenes as <b>3DGS maps</b> from images / video sequences and developing a visual localization method that estimates vehicle <b>position and orientation (6-DoF pose)</b> inside the map. Accuracy is evaluated across scenes and acquisition conditions against classical localization approaches.</p>
+      <img src="https://img.shields.io/badge/3D%20Gaussian%20Splatting-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/Visual%20Localization-1E3A8A?style=flat-square"/> <img src="https://img.shields.io/badge/6--DoF%20Pose-0F766E?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛰️ AeroVerse: VR Aerospace Education</h3>
+      <sub>ENSI · Oct. 2025 – May 2026</sub>
+      <p>Built a <b>Computer Vision module</b> for real-time aerospace component recognition and <b>3D digital twin generation</b>. Led development as <b>Scrum Master across 7 sprints</b>.</p>
+      <img src="https://img.shields.io/badge/Unity%20%2F%20C%23-000000?style=flat-square&logo=unity"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/><br/><br/>
+      <a href="https://github.com/wiem-benelhajsalahbouhdid/AeroVerse">🔗 View repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌿 ESG Text Classification</h3>
+      <sub>Multi-label NLP · Mar. – Apr. 2026</sub>
+      <p>Built a preprocessing pipeline and optimized decision thresholds with <b>BERT (HuggingFace)</b>, achieving a high <b>Macro F1-score</b> in a technical competition.</p>
+      <img src="https://img.shields.io/badge/BERT-FF6F00?style=flat-square"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Multi--label%20NLP-1E3A8A?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📂 More repositories</h3>
+      <p>
+        <a href="https://github.com/wiem-benelhajsalahbouhdid/astranova">AstraNova</a><br/>
+        <a href="https://github.com/wiem-benelhajsalahbouhdid/insure_project">Insure Project</a><br/>
+        <a href="https://github.com/wiem-benelhajsalahbouhdid/astro">Astro</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-    def open_to(self):
-        return ["Internships", "PFE", "Research collaborations", "Open-source"]
-```
+---
+
+## 📚 Research Publications
+
+- 📄 **FedKG-Brain: Knowledge Graph-Enhanced Federated Brain Connectivity Evolution**: *Neurocomputing* (submitted), 2026
+- 📄 **Knowledge-Grounded Federated Graph Learning for Connectome Analysis: A Systematic Review of Privacy, Biological Plausibility and Interpretability**: *Information Fusion* (submitted), 2026
+
+---
+
+## 🛠️ Skills
+
+**🧠 ML & AI**
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-1E3A8A?style=for-the-badge)
+![Federated Learning](https://img.shields.io/badge/Federated%20Learning-0F766E?style=for-the-badge)
+![GNNs](https://img.shields.io/badge/GNNs-B45309?style=for-the-badge)
+![Knowledge Graphs](https://img.shields.io/badge/Knowledge%20Graphs-9D174D?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-006600?style=for-the-badge)
+
+**💻 Programming**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**📊 Data & Databases**
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**⚙️ Software Engineering**
+
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity%20(C%23)-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 🏆 Certifications & Awards
+
+- 🥈 **2nd Place**: Startup Challenge, **TSYP** (MedChain), Dec. 2024
+- 🌱 **Student-Entrepreneur Status**: GreenEye, July 2025
+- 🎓 **Fundamentals of Deep Learning**: NVIDIA, 2025
+- ☁️ **Build a Computer Vision App with Azure Cognitive Services**: Microsoft, 2026
+
+---
+
+## 🎓 Education
+
+| Period | Institution | Program |
+|---|---|---|
+| 2024 – Present | **ENSI** – National School of Computer Science | Engineering Degree in Computer Science, Data Science & Computer Vision track |
+| 2021 – 2024 | **IPEIN** – Preparatory Institute for Engineering Studies of Nabeul | Two-Year Preparatory Engineering Program (Mathematics / Physics) |
 
 ---
 
@@ -140,8 +177,6 @@ class Wiem:
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=wiem-benelhajsalahbouhdid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&count_private=true" alt="GitHub stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiem-benelhajsalahbouhdid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=wiem-benelhajsalahbouhdid&theme=tokyonight&hide_border=true&background=0f172a" alt="GitHub streak"/>
-
 </div>
 
 ---
@@ -150,9 +185,9 @@ class Wiem:
 
 <div align="center">
 
-Interested in AI, Computer Vision or aerospace tech? Let's talk, collaborate or build something together.
+Interested in Medical AI, Federated Learning or Computer Vision? Let's talk, collaborate or build something together.
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiem-ben-el-haj-salah-bouhdid-a3595b343/)
 [![Email](https://img.shields.io/badge/Send%20me-an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wiem.benelhajsalahbouhdid@ensi-uma.tn)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" alt="footer"/>
