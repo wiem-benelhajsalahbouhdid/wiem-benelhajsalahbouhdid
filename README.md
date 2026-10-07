@@ -1,7 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=220&section=header&text=Wiem%20Ben%20El%20Haj%20Salah%20Bouhdid&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%26%20Computer%20Vision%20Engineer%20%7C%20ENSI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=200&section=header&text=Wiem%20Ben%20El%20Haj%20Salah%20Bouhdid&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=Data%20Science%20and%20Computer%20Vision%20Engineer&descSize=16&descAlignY=60" width="100%" alt="Wiem Ben El Haj Salah Bouhdid - Data Science and Computer Vision Engineer"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Research+Intern+%40+LARODEC+Laboratory;Federated+Learning+%7C+GNNs+%7C+Knowledge+Graphs;Computer+Vision+%7C+3D+Gaussian+Splatting+%7C+NLP;Turning+research+ideas+into+real-world+systems+%F0%9F%9A%80" alt="Typing SVG" />
